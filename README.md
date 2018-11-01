@@ -1,1 +1,2 @@
-(# monetize)[https://vadymboguslavsky.github.io/monetize]
+# monetize
+[https://vadymboguslavsky.github.io/monetize]
